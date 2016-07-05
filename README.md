@@ -1,4 +1,4 @@
-# AutoCaptchaForVIT
+# [AutoCaptchaForVIT](http://www.autocaptchaforvit.com)
 
 # Credits
 1. AutoCaptcha for VITacademics by [karthikb351](https://github.com/karthikb351/AutoCaptcha-for-VITacademics/)
